@@ -1,0 +1,298 @@
+[2026-04-12 14:55:01] [INFO] [directories_scraper] ============================================================
+[2026-04-12 14:55:01] [INFO] [directories_scraper] Local Directories Scraper — Starting
+[2026-04-12 14:55:01] [INFO] [directories_scraper] Niches: logistics, retail, healthcare, education
+[2026-04-12 14:55:01] [INFO] [directories_scraper] US Locations: New York, NY, Los Angeles, CA, Chicago, IL, Houston, TX
+[2026-04-12 14:55:01] [INFO] [directories_scraper] CA Locations: Toronto, ON, Vancouver, BC, Montreal, QC
+[2026-04-12 14:55:01] [INFO] [directories_scraper] ============================================================
+[2026-04-12 14:55:01] [INFO] [directories_scraper] --- Niche: logistics ---
+[2026-04-12 14:55:01] [INFO] [directories_scraper]   YellowPages: logistics in New York, NY
+[2026-04-12 14:55:03] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 14:55:03] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:07] [INFO] [directories_scraper]   YellowPages: logistics in Los Angeles, CA
+[2026-04-12 14:55:07] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 14:55:07] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:11] [INFO] [directories_scraper]   YellowPages: logistics in Chicago, IL
+[2026-04-12 14:55:11] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 14:55:11] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:17] [INFO] [directories_scraper]   YellowPages: logistics in Houston, TX
+[2026-04-12 14:55:17] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 14:55:17] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:22] [INFO] [directories_scraper]   Yelp: logistics in New York, NY
+[2026-04-12 14:55:25] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=New+York%2C+NY&start=0
+[2026-04-12 14:55:25] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:29] [INFO] [directories_scraper]   Yelp: logistics in Los Angeles, CA
+[2026-04-12 14:55:29] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 14:55:29] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:34] [INFO] [directories_scraper]   Yelp: logistics in Chicago, IL
+[2026-04-12 14:55:34] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Chicago%2C+IL&start=0
+[2026-04-12 14:55:34] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:40] [INFO] [directories_scraper]   Yelp: logistics in Houston, TX
+[2026-04-12 14:55:40] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Houston%2C+TX&start=0
+[2026-04-12 14:55:40] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:45] [INFO] [directories_scraper]   Canada411: logistics in Toronto, ON
+[2026-04-12 14:55:47] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Toronto%2C+ON
+[2026-04-12 14:55:47] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:51] [INFO] [directories_scraper]   Canada411: logistics in Vancouver, BC
+[2026-04-12 14:55:51] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Vancouver%2C+BC
+[2026-04-12 14:55:51] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:55:54] [INFO] [directories_scraper]   Canada411: logistics in Montreal, QC
+[2026-04-12 14:55:54] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Montreal%2C+QC
+[2026-04-12 14:55:54] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:01] [INFO] [directories_scraper] --- Niche: retail ---
+[2026-04-12 14:56:01] [INFO] [directories_scraper]   YellowPages: retail in New York, NY
+[2026-04-12 14:56:01] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 14:56:01] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:08] [INFO] [directories_scraper]   YellowPages: retail in Los Angeles, CA
+[2026-04-12 14:56:08] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 14:56:08] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:12] [INFO] [directories_scraper]   YellowPages: retail in Chicago, IL
+[2026-04-12 14:56:12] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 14:56:12] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:17] [INFO] [directories_scraper]   YellowPages: retail in Houston, TX
+[2026-04-12 14:56:17] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 14:56:17] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:24] [INFO] [directories_scraper]   Yelp: retail in New York, NY
+[2026-04-12 14:56:24] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=New+York%2C+NY&start=0
+[2026-04-12 14:56:24] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:28] [INFO] [directories_scraper]   Yelp: retail in Los Angeles, CA
+[2026-04-12 14:56:28] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 14:56:28] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:32] [INFO] [directories_scraper]   Yelp: retail in Chicago, IL
+[2026-04-12 14:56:32] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=Chicago%2C+IL&start=0
+[2026-04-12 14:56:32] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:36] [INFO] [directories_scraper]   Yelp: retail in Houston, TX
+[2026-04-12 14:56:36] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=Houston%2C+TX&start=0
+[2026-04-12 14:56:36] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:39] [INFO] [directories_scraper]   Canada411: retail in Toronto, ON
+[2026-04-12 14:56:39] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=retail&where=Toronto%2C+ON
+[2026-04-12 14:56:39] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:46] [INFO] [directories_scraper]   Canada411: retail in Vancouver, BC
+[2026-04-12 14:56:46] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=retail&where=Vancouver%2C+BC
+[2026-04-12 14:56:46] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:50] [INFO] [directories_scraper]   Canada411: retail in Montreal, QC
+[2026-04-12 14:56:50] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=retail&where=Montreal%2C+QC
+[2026-04-12 14:56:50] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:55] [INFO] [directories_scraper] --- Niche: healthcare ---
+[2026-04-12 14:56:55] [INFO] [directories_scraper]   YellowPages: healthcare in New York, NY
+[2026-04-12 14:56:55] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=healthcare&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 14:56:55] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:56:59] [INFO] [directories_scraper]   YellowPages: healthcare in Los Angeles, CA
+[2026-04-12 14:56:59] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=healthcare&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 14:56:59] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:04] [INFO] [directories_scraper]   YellowPages: healthcare in Chicago, IL
+[2026-04-12 14:57:05] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=healthcare&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 14:57:05] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:09] [INFO] [directories_scraper]   YellowPages: healthcare in Houston, TX
+[2026-04-12 14:57:09] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=healthcare&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 14:57:09] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:13] [INFO] [directories_scraper]   Yelp: healthcare in New York, NY
+[2026-04-12 14:57:13] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=healthcare&find_loc=New+York%2C+NY&start=0
+[2026-04-12 14:57:13] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:20] [INFO] [directories_scraper]   Yelp: healthcare in Los Angeles, CA
+[2026-04-12 14:57:20] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=healthcare&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 14:57:20] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:26] [INFO] [directories_scraper]   Yelp: healthcare in Chicago, IL
+[2026-04-12 14:57:26] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=healthcare&find_loc=Chicago%2C+IL&start=0
+[2026-04-12 14:57:26] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:33] [INFO] [directories_scraper]   Yelp: healthcare in Houston, TX
+[2026-04-12 14:57:33] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=healthcare&find_loc=Houston%2C+TX&start=0
+[2026-04-12 14:57:33] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:40] [INFO] [directories_scraper]   Canada411: healthcare in Toronto, ON
+[2026-04-12 14:57:40] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=healthcare&where=Toronto%2C+ON
+[2026-04-12 14:57:40] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:46] [INFO] [directories_scraper]   Canada411: healthcare in Vancouver, BC
+[2026-04-12 14:57:46] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=healthcare&where=Vancouver%2C+BC
+[2026-04-12 14:57:46] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:50] [INFO] [directories_scraper]   Canada411: healthcare in Montreal, QC
+[2026-04-12 14:57:50] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=healthcare&where=Montreal%2C+QC
+[2026-04-12 14:57:50] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:55] [INFO] [directories_scraper] --- Niche: education ---
+[2026-04-12 14:57:55] [INFO] [directories_scraper]   YellowPages: education in New York, NY
+[2026-04-12 14:57:55] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=education&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 14:57:55] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:57:58] [INFO] [directories_scraper]   YellowPages: education in Los Angeles, CA
+[2026-04-12 14:57:59] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=education&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 14:57:59] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:04] [INFO] [directories_scraper]   YellowPages: education in Chicago, IL
+[2026-04-12 14:58:04] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=education&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 14:58:04] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:10] [INFO] [directories_scraper]   YellowPages: education in Houston, TX
+[2026-04-12 14:58:10] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=education&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 14:58:10] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:14] [INFO] [directories_scraper]   Yelp: education in New York, NY
+[2026-04-12 14:58:14] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=education&find_loc=New+York%2C+NY&start=0
+[2026-04-12 14:58:14] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:19] [INFO] [directories_scraper]   Yelp: education in Los Angeles, CA
+[2026-04-12 14:58:19] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=education&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 14:58:19] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:26] [INFO] [directories_scraper]   Yelp: education in Chicago, IL
+[2026-04-12 14:58:27] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=education&find_loc=Chicago%2C+IL&start=0
+[2026-04-12 14:58:27] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:31] [INFO] [directories_scraper]   Yelp: education in Houston, TX
+[2026-04-12 14:58:31] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=education&find_loc=Houston%2C+TX&start=0
+[2026-04-12 14:58:31] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:37] [INFO] [directories_scraper]   Canada411: education in Toronto, ON
+[2026-04-12 14:58:37] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=education&where=Toronto%2C+ON
+[2026-04-12 14:58:37] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:42] [INFO] [directories_scraper]   Canada411: education in Vancouver, BC
+[2026-04-12 14:58:42] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=education&where=Vancouver%2C+BC
+[2026-04-12 14:58:42] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:49] [INFO] [directories_scraper]   Canada411: education in Montreal, QC
+[2026-04-12 14:58:49] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=education&where=Montreal%2C+QC
+[2026-04-12 14:58:49] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 14:58:55] [WARNING] [directories_scraper] No results found — CSV not created.
+[2026-04-12 14:58:55] [INFO] [directories_scraper] Directories Scraper — Done. Total unique listings: 0
+[2026-04-12 15:24:29] [INFO] [directories_scraper] ============================================================
+[2026-04-12 15:24:29] [INFO] [directories_scraper] Local Directories Scraper — Starting
+[2026-04-12 15:24:29] [INFO] [directories_scraper] Niches: logistics, retail, healthcare, education
+[2026-04-12 15:24:29] [INFO] [directories_scraper] US Locations: New York, NY, Los Angeles, CA, Chicago, IL, Houston, TX
+[2026-04-12 15:24:29] [INFO] [directories_scraper] CA Locations: Toronto, ON, Vancouver, BC, Montreal, QC
+[2026-04-12 15:24:29] [INFO] [directories_scraper] ============================================================
+[2026-04-12 15:24:29] [INFO] [directories_scraper] --- Niche: logistics ---
+[2026-04-12 15:24:29] [INFO] [directories_scraper]   YellowPages: logistics in New York, NY
+[2026-04-12 15:24:30] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 15:24:30] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:24:34] [INFO] [directories_scraper]   YellowPages: logistics in Los Angeles, CA
+[2026-04-12 15:24:34] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 15:24:34] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:24:40] [INFO] [directories_scraper]   YellowPages: logistics in Chicago, IL
+[2026-04-12 15:24:40] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 15:24:40] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:24:46] [INFO] [directories_scraper]   YellowPages: logistics in Houston, TX
+[2026-04-12 15:24:46] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=logistics&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 15:24:46] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:24:50] [INFO] [directories_scraper]   Yelp: logistics in New York, NY
+[2026-04-12 15:24:54] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=New+York%2C+NY&start=0
+[2026-04-12 15:24:54] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:00] [INFO] [directories_scraper]   Yelp: logistics in Los Angeles, CA
+[2026-04-12 15:25:00] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 15:25:00] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:06] [INFO] [directories_scraper]   Yelp: logistics in Chicago, IL
+[2026-04-12 15:25:06] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Chicago%2C+IL&start=0
+[2026-04-12 15:25:06] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:10] [INFO] [directories_scraper]   Yelp: logistics in Houston, TX
+[2026-04-12 15:25:11] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=logistics&find_loc=Houston%2C+TX&start=0
+[2026-04-12 15:25:11] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:15] [INFO] [directories_scraper]   Canada411: logistics in Toronto, ON
+[2026-04-12 15:25:17] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Toronto%2C+ON
+[2026-04-12 15:25:17] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:23] [INFO] [directories_scraper]   Canada411: logistics in Vancouver, BC
+[2026-04-12 15:25:23] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Vancouver%2C+BC
+[2026-04-12 15:25:23] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:28] [INFO] [directories_scraper]   Canada411: logistics in Montreal, QC
+[2026-04-12 15:25:28] [DEBUG] [directories_scraper]     Canada411 page 1 request failed: 403 Client Error: Forbidden for url: https://www.canada411.ca/search/si/1/?what=logistics&where=Montreal%2C+QC
+[2026-04-12 15:25:28] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:32] [INFO] [directories_scraper] --- Niche: retail ---
+[2026-04-12 15:25:32] [INFO] [directories_scraper]   YellowPages: retail in New York, NY
+[2026-04-12 15:25:32] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=New+York%2C+NY&page=1
+[2026-04-12 15:25:32] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:37] [INFO] [directories_scraper]   YellowPages: retail in Los Angeles, CA
+[2026-04-12 15:25:38] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Los+Angeles%2C+CA&page=1
+[2026-04-12 15:25:38] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:41] [INFO] [directories_scraper]   YellowPages: retail in Chicago, IL
+[2026-04-12 15:25:41] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Chicago%2C+IL&page=1
+[2026-04-12 15:25:41] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:45] [INFO] [directories_scraper]   YellowPages: retail in Houston, TX
+[2026-04-12 15:25:45] [DEBUG] [directories_scraper]     YP page 1 request failed: 403 Client Error: Forbidden for url: https://www.yellowpages.com/search?search_terms=retail&geo_location_terms=Houston%2C+TX&page=1
+[2026-04-12 15:25:45] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:51] [INFO] [directories_scraper]   Yelp: retail in New York, NY
+[2026-04-12 15:25:51] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=New+York%2C+NY&start=0
+[2026-04-12 15:25:51] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 15:25:55] [INFO] [directories_scraper]   Yelp: retail in Los Angeles, CA
+[2026-04-12 15:25:56] [DEBUG] [directories_scraper]     Yelp page 1 request failed: 403 Client Error: Forbidden for url: https://www.yelp.com/search?find_desc=retail&find_loc=Los+Angeles%2C+CA&start=0
+[2026-04-12 15:25:56] [INFO] [directories_scraper]     → 0 listings
+[2026-04-12 16:32:22] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:32:22] [INFO] [directories_scraper] Local Directories Scraper (Selenium Edition) — Starting
+[2026-04-12 16:32:22] [INFO] [directories_scraper] Niches: logistics, retail, healthcare, education
+[2026-04-12 16:32:22] [INFO] [directories_scraper] US Locations: New York, NY, Los Angeles, CA, Chicago, IL, Houston, TX
+[2026-04-12 16:32:22] [INFO] [directories_scraper] CA Locations: Toronto, ON, Vancouver, BC, Montreal, QC
+[2026-04-12 16:32:22] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:32:26] [INFO] [directories_scraper] --- Niche: logistics ---
+[2026-04-12 16:32:26] [INFO] [directories_scraper]   YellowPages: logistics in New York, NY
+[2026-04-12 16:32:49] [DEBUG] [directories_scraper]     No YP results on page 2
+[2026-04-12 16:32:49] [INFO] [directories_scraper]     -> 60 listings
+[2026-04-12 16:36:12] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:36:12] [INFO] [directories_scraper] Local Directories Scraper (Selenium Edition) — Starting
+[2026-04-12 16:36:12] [INFO] [directories_scraper] Niches: logistics, retail, healthcare, education
+[2026-04-12 16:36:12] [INFO] [directories_scraper] US Locations: New York, NY, Los Angeles, CA, Chicago, IL, Houston, TX
+[2026-04-12 16:36:12] [INFO] [directories_scraper] CA Locations: Toronto, ON, Vancouver, BC, Montreal, QC
+[2026-04-12 16:36:12] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:36:15] [INFO] [directories_scraper] --- Niche: logistics ---
+[2026-04-12 16:36:15] [INFO] [directories_scraper]   YellowPages: logistics in New York, NY
+[2026-04-12 16:36:33] [DEBUG] [directories_scraper]     No YP results on page 2
+[2026-04-12 16:36:33] [INFO] [directories_scraper]     -> 60 listings
+[2026-04-12 16:36:39] [INFO] [directories_scraper]   YellowPages: logistics in Los Angeles, CA
+[2026-04-12 16:36:51] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:36:51] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:36:55] [INFO] [directories_scraper]   YellowPages: logistics in Chicago, IL
+[2026-04-12 16:36:57] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:36:57] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:03] [INFO] [directories_scraper]   YellowPages: logistics in Houston, TX
+[2026-04-12 16:37:06] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:37:06] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:09] [INFO] [directories_scraper]   Yelp: logistics in New York, NY
+[2026-04-12 16:37:18] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:37:18] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:21] [INFO] [directories_scraper]   Yelp: logistics in Los Angeles, CA
+[2026-04-12 16:37:27] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:37:27] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:31] [INFO] [directories_scraper]   Yelp: logistics in Chicago, IL
+[2026-04-12 16:37:36] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:37:36] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:42] [INFO] [directories_scraper]   Yelp: logistics in Houston, TX
+[2026-04-12 16:37:49] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:37:49] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:37:55] [INFO] [directories_scraper]   Canada411: logistics in Toronto, ON
+[2026-04-12 16:38:02] [DEBUG] [directories_scraper]     No Canada411 results on page 1
+[2026-04-12 16:38:02] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:09] [INFO] [directories_scraper]   Canada411: logistics in Vancouver, BC
+[2026-04-12 16:38:12] [DEBUG] [directories_scraper]     No Canada411 results on page 1
+[2026-04-12 16:38:12] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:17] [INFO] [directories_scraper]   Canada411: logistics in Montreal, QC
+[2026-04-12 16:38:21] [DEBUG] [directories_scraper]     No Canada411 results on page 1
+[2026-04-12 16:38:21] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:26] [INFO] [directories_scraper] --- Niche: retail ---
+[2026-04-12 16:38:26] [INFO] [directories_scraper]   YellowPages: retail in New York, NY
+[2026-04-12 16:38:29] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:38:29] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:34] [INFO] [directories_scraper]   YellowPages: retail in Los Angeles, CA
+[2026-04-12 16:38:38] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:38:38] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:44] [INFO] [directories_scraper]   YellowPages: retail in Chicago, IL
+[2026-04-12 16:38:49] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:38:49] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:38:53] [INFO] [directories_scraper]   YellowPages: retail in Houston, TX
+[2026-04-12 16:38:56] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:38:56] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:39:00] [INFO] [directories_scraper]   Yelp: retail in New York, NY
+[2026-04-12 16:39:05] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:39:05] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:39:10] [INFO] [directories_scraper]   Yelp: retail in Los Angeles, CA
+[2026-04-12 16:39:15] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:39:15] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:39:20] [INFO] [directories_scraper]   Yelp: retail in Chicago, IL
+[2026-04-12 16:39:25] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:39:25] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:39:29] [INFO] [directories_scraper]   Yelp: retail in Houston, TX
+[2026-04-12 16:39:33] [DEBUG] [directories_scraper]     No Yelp results on page 1
+[2026-04-12 16:39:33] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:39:39] [INFO] [directories_scraper]   Canada411: retail in Toronto, ON
+[2026-04-12 16:55:27] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:55:27] [INFO] [directories_scraper] Local Directories Scraper (Selenium Edition) — Starting
+[2026-04-12 16:55:27] [INFO] [directories_scraper] Niches: logistics, retail, healthcare, education
+[2026-04-12 16:55:27] [INFO] [directories_scraper] US Locations: New York, NY, Los Angeles, CA, Chicago, IL, Houston, TX
+[2026-04-12 16:55:27] [INFO] [directories_scraper] CA Locations: Toronto, ON, Vancouver, BC, Montreal, QC
+[2026-04-12 16:55:27] [INFO] [directories_scraper] ============================================================
+[2026-04-12 16:55:29] [INFO] [directories_scraper] --- Niche: logistics ---
+[2026-04-12 16:55:29] [INFO] [directories_scraper]   YellowPages: logistics in New York, NY
+[2026-04-12 16:55:44] [DEBUG] [directories_scraper]     No YP results on page 2
+[2026-04-12 16:55:44] [INFO] [directories_scraper]     -> 60 listings
+[2026-04-12 16:55:47] [INFO] [directories_scraper]   YellowPages: logistics in Los Angeles, CA
+[2026-04-12 16:55:50] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:55:50] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:55:57] [INFO] [directories_scraper]   YellowPages: logistics in Chicago, IL
+[2026-04-12 16:56:00] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:56:00] [INFO] [directories_scraper]     -> 0 listings
+[2026-04-12 16:56:06] [INFO] [directories_scraper]   YellowPages: logistics in Houston, TX
+[2026-04-12 16:56:10] [DEBUG] [directories_scraper]     No YP results on page 1
+[2026-04-12 16:56:10] [INFO] [directories_scraper]     -> 0 listings

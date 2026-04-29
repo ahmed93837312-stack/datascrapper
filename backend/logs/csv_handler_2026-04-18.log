@@ -1,0 +1,20 @@
+[2026-04-18 06:32:16] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 06:32:16] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 06:32:37] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 06:32:37] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 06:36:04] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 06:37:07] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-18 06:37:07] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-18 06:37:22] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-18 06:45:43] [INFO] [csv_handler] Wrote 5 rows to C:\datascrap\backend\output\gmaps_gyms_dubai_20260418_064543.csv
+[2026-04-18 06:45:43] [INFO] [csv_handler] Wrote data to C:\datascrap\backend\output\gmaps_gyms_dubai_20260418_064543.json
+[2026-04-18 06:45:43] [INFO] [csv_handler] Appended 5 rows to C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 07:10:03] [INFO] [csv_handler] Wrote 5 rows to C:\datascrap\backend\output\gmaps_gyms_dubai_20260418_071003.csv
+[2026-04-18 07:10:03] [INFO] [csv_handler] Wrote data to C:\datascrap\backend\output\gmaps_gyms_dubai_20260418_071003.json
+[2026-04-18 07:10:03] [INFO] [csv_handler] Appended 5 rows to C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 07:14:56] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-18 07:42:25] [INFO] [csv_handler] Wrote 100 rows to C:\datascrap\backend\output\gmaps_real_estate_dubai_20260418_074225.csv
+[2026-04-18 07:42:25] [INFO] [csv_handler] Wrote data to C:\datascrap\backend\output\gmaps_real_estate_dubai_20260418_074225.json
+[2026-04-18 07:42:25] [INFO] [csv_handler] Appended 100 rows to C:\datascrap\backend\output\google_maps_master.csv
+[2026-04-18 10:42:55] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-18 10:42:55] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv

@@ -1,0 +1,133 @@
+[2026-04-15 04:38:18] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'None' in 'None'
+[2026-04-15 05:52:55] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-15 05:53:45] [INFO] [google_maps_scraper] Searching for: gyms in Dubai
+[2026-04-15 05:53:53] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 05:54:03] [ERROR] [google_maps_scraper] Error during scrolling: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x93cdf3+10b03]
+	chromedriver!GetHandleVerifier [0x93cf24+10c34]
+	chromedriver!(No symbol) [0x722120]
+	chromedriver!(No symbol) [0x76abca]
+	chromedriver!(No symbol) [0x76ae6b]
+	chromedriver!(No symbol) [0x7ad0b2]
+	chromedriver!(No symbol) [0x78db54]
+	chromedriver!(No symbol) [0x7aa9a5]
+	chromedriver!(No symbol) [0x78d8a6]
+	chromedriver!(No symbol) [0x760229]
+	chromedriver!(No symbol) [0x760fe4]
+	chromedriver!GetHandleVerifier [0xba48b9+2785c9]
+	chromedriver!GetHandleVerifier [0xb9feb5+273bc5]
+	chromedriver!GetHandleVerifier [0xbbe06b+291d7b]
+	chromedriver!GetHandleVerifier [0x955cc8+299d8]
+	chromedriver!GetHandleVerifier [0x95d9fd+3170d]
+	chromedriver!GetHandleVerifier [0x9458c8+195d8]
+	chromedriver!GetHandleVerifier [0x945a92+197a2]
+	chromedriver!GetHandleVerifier [0x92ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75c5fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e3827e+ee]
+
+[2026-04-15 05:54:13] [INFO] [google_maps_scraper] Starting extraction for 0 listings.
+[2026-04-15 05:54:13] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 05:54:13] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 05:54:15] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-15 06:04:08] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-15 06:04:25] [INFO] [google_maps_scraper] Searching for: gyms in Dubai
+[2026-04-15 06:04:33] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 06:05:35] [ERROR] [google_maps_scraper] Could not find results feed element after multiple attempts.
+[2026-04-15 06:06:05] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-15 06:06:05] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 06:06:05] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 06:06:09] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-15 06:20:36] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-15 06:20:55] [INFO] [google_maps_scraper] Searching for: gyms in Dubai
+[2026-04-15 06:21:23] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 06:22:15] [WARNING] [google_maps_scraper] Could not find specific results feed element. Attempting to extract directly from page.
+[2026-04-15 06:22:46] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-15 06:22:46] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 06:22:46] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 06:23:03] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-15 06:48:50] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'restaurants' in 'New York'
+[2026-04-15 06:49:10] [INFO] [google_maps_scraper] Searching for: restaurants in New York
+[2026-04-15 06:49:14] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 06:50:05] [WARNING] [google_maps_scraper] Could not find specific results feed element. Attempting to extract directly from page.
+[2026-04-15 06:50:35] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-15 06:50:35] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 06:50:35] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 06:50:38] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-15 07:44:22] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-15 07:44:40] [INFO] [google_maps_scraper] Searching for: gyms in Dubai
+[2026-04-15 07:45:57] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 07:45:57] [INFO] [google_maps_scraper] Connected to results feed using selector: div[role='feed']
+[2026-04-15 07:46:19] [DEBUG] [google_maps_scraper] Loaded 16 results...
+[2026-04-15 07:46:41] [DEBUG] [google_maps_scraper] Loaded 16 results...
+[2026-04-15 07:47:04] [DEBUG] [google_maps_scraper] Loaded 22 results...
+[2026-04-15 07:47:31] [DEBUG] [google_maps_scraper] Loaded 30 results...
+[2026-04-15 07:47:54] [DEBUG] [google_maps_scraper] Loaded 30 results...
+[2026-04-15 07:48:16] [DEBUG] [google_maps_scraper] Loaded 38 results...
+[2026-04-15 07:48:38] [DEBUG] [google_maps_scraper] Loaded 38 results...
+[2026-04-15 07:49:00] [DEBUG] [google_maps_scraper] Loaded 44 results...
+[2026-04-15 07:49:23] [DEBUG] [google_maps_scraper] Loaded 44 results...
+[2026-04-15 07:49:47] [INFO] [google_maps_scraper] Found 52 result links.
+[2026-04-15 07:49:48] [INFO] [google_maps_scraper] Found 52 listings using selector: a.hfpxzc
+[2026-04-15 07:49:48] [INFO] [google_maps_scraper] Starting extraction for 52 listings.
+[2026-04-15 07:50:32] [INFO] [google_maps_scraper]   Attempting email harvest for GymNation Bur Dubai | Best Gym In Bur Dubai
+[2026-04-15 07:50:34] [INFO] [google_maps_scraper]   [1/52] Extracted: GymNation Bur Dubai | Best Gym In Bur Dubai
+[2026-04-15 07:50:59] [INFO] [google_maps_scraper]   Attempting email harvest for The Warehouse Gym - Al Quoz
+[2026-04-15 07:51:00] [INFO] [google_maps_scraper]   [2/52] Extracted: The Warehouse Gym - Al Quoz
+[2026-04-15 07:51:25] [INFO] [google_maps_scraper]   Attempting email harvest for Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym
+[2026-04-15 07:51:28] [INFO] [google_maps_scraper]   [3/52] Extracted: Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym
+[2026-04-15 07:52:02] [INFO] [google_maps_scraper]   [4/52] Extracted: ReStart Fitness Center & Gym
+[2026-04-15 07:52:26] [INFO] [google_maps_scraper]   Attempting email harvest for GymNation Downtown Dubai | Best Gym in Downtown Dubai
+[2026-04-15 07:52:29] [INFO] [google_maps_scraper]   [5/52] Extracted: GymNation Downtown Dubai | Best Gym in Downtown Dubai
+[2026-04-15 07:53:11] [INFO] [google_maps_scraper]   Attempting email harvest for Snap Fitness Downtown
+[2026-04-15 07:53:14] [INFO] [google_maps_scraper]   [6/52] Extracted: Snap Fitness Downtown
+[2026-04-15 07:53:39] [INFO] [google_maps_scraper]   Attempting email harvest for Roar Fitness Dubai Downtown
+[2026-04-15 07:53:42] [INFO] [google_maps_scraper]   [7/52] Extracted: Roar Fitness Dubai Downtown
+[2026-04-15 07:54:08] [INFO] [google_maps_scraper]   Attempting email harvest for Generation Iron Gym
+[2026-04-15 07:54:11] [INFO] [google_maps_scraper]   [8/52] Extracted: Generation Iron Gym
+[2026-04-15 07:54:35] [INFO] [google_maps_scraper]   Attempting email harvest for TOTAL FIT DUBAI
+[2026-04-15 07:54:43] [INFO] [google_maps_scraper]   [9/52] Extracted: TOTAL FIT DUBAI
+[2026-04-15 07:55:09] [INFO] [google_maps_scraper]   Attempting email harvest for Grand Gold Gym Best Gym In Barsha
+[2026-04-15 07:55:16] [INFO] [google_maps_scraper]   [10/52] Extracted: Grand Gold Gym Best Gym In Barsha
+[2026-04-15 07:55:40] [INFO] [google_maps_scraper]   Attempting email harvest for The Marina Gym-24 hours Gym in Dubai Marina
+[2026-04-15 07:55:42] [INFO] [google_maps_scraper]   [11/52] Extracted: The Marina Gym-24 hours Gym in Dubai Marina
+[2026-04-15 07:56:07] [INFO] [google_maps_scraper]   Attempting email harvest for GymNation Al Quoz | Best Gym in Al Quoz
+[2026-04-15 07:56:09] [INFO] [google_maps_scraper]   [12/52] Extracted: GymNation Al Quoz | Best Gym in Al Quoz
+[2026-04-15 07:56:36] [INFO] [google_maps_scraper]   Attempting email harvest for GymNation Motor City | Best Gym in Motor City
+[2026-04-15 07:56:38] [INFO] [google_maps_scraper]   [13/52] Extracted: GymNation Motor City | Best Gym in Motor City
+[2026-04-15 07:57:07] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'restaurants' in 'New York'
+[2026-04-15 07:57:10] [INFO] [google_maps_scraper]   Attempting email harvest for 51 GYM DUBAI
+[2026-04-15 07:57:22] [INFO] [google_maps_scraper]   [14/52] Extracted: 51 GYM DUBAI
+[2026-04-15 07:57:23] [INFO] [google_maps_scraper] Searching for: restaurants in New York
+[2026-04-15 07:57:49] [INFO] [google_maps_scraper]   Attempting email harvest for 1Rebel DIFC
+[2026-04-15 07:57:53] [INFO] [google_maps_scraper]   [15/52] Extracted: 1Rebel DIFC
+[2026-04-15 07:58:20] [INFO] [google_maps_scraper]   Attempting email harvest for South Fitness Club
+[2026-04-15 07:58:25] [INFO] [google_maps_scraper]   [16/52] Extracted: South Fitness Club
+[2026-04-15 07:58:44] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 07:58:50] [INFO] [google_maps_scraper]   Attempting email harvest for BLITZ Downtown Dubai | Best HIIT Workout in Dubai
+[2026-04-15 07:58:52] [INFO] [google_maps_scraper]   [17/52] Extracted: BLITZ Downtown Dubai | Best HIIT Workout in Dubai
+[2026-04-15 07:59:16] [INFO] [google_maps_scraper]   Attempting email harvest for Snap Fitness Media City | Best Gym in Dubai
+[2026-04-15 07:59:34] [INFO] [google_maps_scraper]   [18/52] Extracted: Snap Fitness Media City | Best Gym in Dubai
+[2026-04-15 07:59:35] [WARNING] [google_maps_scraper] Could not find specific results feed element. Attempting to extract directly from page.
+[2026-04-15 08:00:36] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-15 08:00:36] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 08:00:36] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 08:00:42] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-15 08:00:42] [INFO] [google_maps_scraper]   Attempting email harvest for WE FIT TOGETHER
+[2026-04-15 08:00:53] [INFO] [google_maps_scraper]   [19/52] Extracted: WE FIT TOGETHER
+[2026-04-15 08:01:42] [INFO] [google_maps_scraper]   Attempting email harvest for PureGym Dubai Al Barsha | بيورجيم - البرشاء - دبي
+[2026-04-15 08:01:47] [INFO] [google_maps_scraper]   [20/52] Extracted: PureGym Dubai Al Barsha | بيورجيم - البرشاء - دبي
+[2026-04-15 08:02:35] [INFO] [google_maps_scraper]   [21/52] Extracted: Noor Al Kahn Fitness Center
+[2026-04-15 08:03:08] [INFO] [google_maps_scraper]   Attempting email harvest for Ultimate Athletics
+[2026-04-15 08:03:14] [INFO] [google_maps_scraper]   [22/52] Extracted: Ultimate Athletics
+[2026-04-15 08:04:02] [INFO] [google_maps_scraper]   Attempting email harvest for PureGym Dubai Nad Al Sheba | بيورجيم - ند الشبا - دبي
+[2026-04-15 08:04:17] [INFO] [google_maps_scraper]   [23/52] Extracted: PureGym Dubai Nad Al Sheba | بيورجيم - ند الشبا - دبي
+[2026-04-15 08:05:10] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'restaurants' in 'New York'
+[2026-04-15 08:05:32] [INFO] [google_maps_scraper] Searching for: restaurants in New York
+[2026-04-15 08:06:44] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-15 08:07:34] [WARNING] [google_maps_scraper] Could not find specific results feed element. Attempting to extract directly from page.
+[2026-04-15 08:08:15] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-15 08:08:15] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-15 08:08:15] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-15 08:08:17] [INFO] [google_maps_scraper] WebDriver closed.

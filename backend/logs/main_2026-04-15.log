@@ -1,0 +1,4 @@
+[2026-04-15 04:18:09] [INFO] [main] Session started at 2026-04-15 04:18:09
+[2026-04-15 04:18:09] [ERROR] [main] Google Maps scraper failed: No module named 'selenium'
+[2026-04-15 04:18:31] [INFO] [main] Session started at 2026-04-15 04:18:31
+[2026-04-15 04:18:34] [ERROR] [main] Google Maps scraper failed: No module named 'fake_useragent'

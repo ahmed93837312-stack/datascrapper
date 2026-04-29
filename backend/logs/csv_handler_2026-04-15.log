@@ -1,0 +1,7 @@
+[2026-04-15 02:16:17] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-15 02:16:17] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-15 02:16:23] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\local_directories.csv
+[2026-04-15 02:16:23] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\local_directories.csv
+[2026-04-15 02:20:21] [INFO] [csv_handler] Wrote 30 rows to C:\datascrap\backend\output\local_directories.csv
+[2026-04-15 02:34:57] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv
+[2026-04-15 02:34:57] [WARNING] [csv_handler] CSV file not found: C:\datascrap\backend\output\upwork_jobs.csv

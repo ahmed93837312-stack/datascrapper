@@ -1,0 +1,220 @@
+[2026-04-12 15:08:51] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:08:51] [INFO] [upwork_scraper] Upwork Scraper — Starting
+[2026-04-12 15:08:51] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:08:51] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:08:51] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:08:53] [ERROR] [upwork_scraper]   HTTP request failed for 'AI automation': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=AI+automation&sort=recency
+[2026-04-12 15:08:53] [ERROR] [upwork_scraper]   HTML fallback also failed for 'AI automation': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=AI+automation&sort=recency&per_page=20
+[2026-04-12 15:08:53] [INFO] [upwork_scraper]   → Found 0 jobs for 'AI automation'
+[2026-04-12 15:08:53] [DEBUG] [upwork_scraper]   Sleeping 2.5s before next keyword…
+[2026-04-12 15:08:56] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:08:57] [ERROR] [upwork_scraper]   HTTP request failed for 'AI chatbot': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=AI+chatbot&sort=recency
+[2026-04-12 15:08:57] [ERROR] [upwork_scraper]   HTML fallback also failed for 'AI chatbot': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=AI+chatbot&sort=recency&per_page=20
+[2026-04-12 15:08:57] [INFO] [upwork_scraper]   → Found 0 jobs for 'AI chatbot'
+[2026-04-12 15:08:57] [DEBUG] [upwork_scraper]   Sleeping 2.5s before next keyword…
+[2026-04-12 15:09:00] [INFO] [upwork_scraper] [3/5] Scraping keyword: 'SaaS'
+[2026-04-12 15:09:01] [ERROR] [upwork_scraper]   HTTP request failed for 'SaaS': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=SaaS&sort=recency
+[2026-04-12 15:09:01] [ERROR] [upwork_scraper]   HTML fallback also failed for 'SaaS': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=SaaS&sort=recency&per_page=20
+[2026-04-12 15:09:01] [INFO] [upwork_scraper]   → Found 0 jobs for 'SaaS'
+[2026-04-12 15:09:01] [DEBUG] [upwork_scraper]   Sleeping 2.9s before next keyword…
+[2026-04-12 15:09:04] [INFO] [upwork_scraper] [4/5] Scraping keyword: 'web development'
+[2026-04-12 15:09:04] [ERROR] [upwork_scraper]   HTTP request failed for 'web development': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=web+development&sort=recency
+[2026-04-12 15:09:05] [ERROR] [upwork_scraper]   HTML fallback also failed for 'web development': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=web+development&sort=recency&per_page=20
+[2026-04-12 15:09:05] [INFO] [upwork_scraper]   → Found 0 jobs for 'web development'
+[2026-04-12 15:09:05] [DEBUG] [upwork_scraper]   Sleeping 3.9s before next keyword…
+[2026-04-12 15:09:09] [INFO] [upwork_scraper] [5/5] Scraping keyword: 'app development'
+[2026-04-12 15:09:09] [ERROR] [upwork_scraper]   HTTP request failed for 'app development': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=app+development&sort=recency
+[2026-04-12 15:09:09] [ERROR] [upwork_scraper]   HTML fallback also failed for 'app development': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=app+development&sort=recency&per_page=20
+[2026-04-12 15:09:09] [INFO] [upwork_scraper]   → Found 0 jobs for 'app development'
+[2026-04-12 15:09:09] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 15:09:10] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0
+[2026-04-12 15:09:26] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:09:26] [INFO] [upwork_scraper] Upwork Scraper — Starting
+[2026-04-12 15:09:26] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:09:26] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:09:26] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:09:27] [ERROR] [upwork_scraper]   HTTP request failed for 'AI automation': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=AI+automation&sort=recency
+[2026-04-12 15:09:27] [ERROR] [upwork_scraper]   HTML fallback also failed for 'AI automation': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=AI+automation&sort=recency&per_page=20
+[2026-04-12 15:09:27] [INFO] [upwork_scraper]   → Found 0 jobs for 'AI automation'
+[2026-04-12 15:09:27] [DEBUG] [upwork_scraper]   Sleeping 3.8s before next keyword…
+[2026-04-12 15:09:31] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:09:32] [ERROR] [upwork_scraper]   HTTP request failed for 'AI chatbot': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=AI+chatbot&sort=recency
+[2026-04-12 15:09:32] [ERROR] [upwork_scraper]   HTML fallback also failed for 'AI chatbot': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=AI+chatbot&sort=recency&per_page=20
+[2026-04-12 15:09:32] [INFO] [upwork_scraper]   → Found 0 jobs for 'AI chatbot'
+[2026-04-12 15:09:32] [DEBUG] [upwork_scraper]   Sleeping 4.2s before next keyword…
+[2026-04-12 15:09:37] [INFO] [upwork_scraper] [3/5] Scraping keyword: 'SaaS'
+[2026-04-12 15:09:38] [ERROR] [upwork_scraper]   HTTP request failed for 'SaaS': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=SaaS&sort=recency
+[2026-04-12 15:09:38] [ERROR] [upwork_scraper]   HTML fallback also failed for 'SaaS': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=SaaS&sort=recency&per_page=20
+[2026-04-12 15:09:38] [INFO] [upwork_scraper]   → Found 0 jobs for 'SaaS'
+[2026-04-12 15:09:38] [DEBUG] [upwork_scraper]   Sleeping 2.2s before next keyword…
+[2026-04-12 15:09:40] [INFO] [upwork_scraper] [4/5] Scraping keyword: 'web development'
+[2026-04-12 15:09:42] [ERROR] [upwork_scraper]   HTTP request failed for 'web development': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=web+development&sort=recency
+[2026-04-12 15:09:42] [ERROR] [upwork_scraper]   HTML fallback also failed for 'web development': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=web+development&sort=recency&per_page=20
+[2026-04-12 15:09:42] [INFO] [upwork_scraper]   → Found 0 jobs for 'web development'
+[2026-04-12 15:09:42] [DEBUG] [upwork_scraper]   Sleeping 4.8s before next keyword…
+[2026-04-12 15:09:46] [INFO] [upwork_scraper] [5/5] Scraping keyword: 'app development'
+[2026-04-12 15:09:48] [ERROR] [upwork_scraper]   HTTP request failed for 'app development': 410 Client Error: Gone for url: https://www.upwork.com/ab/feed/jobs/rss?q=app+development&sort=recency
+[2026-04-12 15:09:48] [ERROR] [upwork_scraper]   HTML fallback also failed for 'app development': 403 Client Error: Forbidden for url: https://www.upwork.com/nx/search/jobs?q=app+development&sort=recency&per_page=20
+[2026-04-12 15:09:48] [INFO] [upwork_scraper]   → Found 0 jobs for 'app development'
+[2026-04-12 15:09:48] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 15:09:48] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0
+[2026-04-12 15:15:50] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:15:50] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 15:15:50] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:15:50] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:15:51] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:15:51] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:16:18] [INFO] [upwork_scraper]   → Found 0 jobs for 'AI automation'
+[2026-04-12 15:16:22] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:18:00] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:18:00] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 15:18:00] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:18:00] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:18:03] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:18:03] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:18:27] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI automation'
+[2026-04-12 15:18:32] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:18:56] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI chatbot'
+[2026-04-12 15:22:46] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:22:46] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 15:22:46] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:22:46] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:22:48] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:22:48] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:23:14] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI automation'
+[2026-04-12 15:23:20] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:23:45] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI chatbot'
+[2026-04-12 15:23:49] [INFO] [upwork_scraper] [3/5] Scraping keyword: 'SaaS'
+[2026-04-12 15:24:14] [INFO] [upwork_scraper]   -> Found 0 jobs for 'SaaS'
+[2026-04-12 15:24:18] [INFO] [upwork_scraper] [4/5] Scraping keyword: 'web development'
+[2026-04-12 15:24:41] [INFO] [upwork_scraper]   -> Found 0 jobs for 'web development'
+[2026-04-12 15:24:49] [INFO] [upwork_scraper] [5/5] Scraping keyword: 'app development'
+[2026-04-12 15:25:14] [INFO] [upwork_scraper]   -> Found 0 jobs for 'app development'
+[2026-04-12 15:25:17] [DEBUG] [upwork_scraper] WebDriver closed
+[2026-04-12 15:25:17] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 15:25:17] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0
+[2026-04-12 15:29:44] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:29:44] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 15:29:44] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:29:44] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:29:47] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:29:47] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:29:48] [INFO] [upwork_scraper]   Waiting for page to load for 'AI automation' (Solve captcha if it appears!)...
+[2026-04-12 15:56:02] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:56:02] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 15:56:02] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:56:02] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 15:56:04] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:56:04] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 15:56:05] [INFO] [upwork_scraper]   Waiting for page to load for 'AI automation' (Solve captcha if it appears!)...
+[2026-04-12 15:56:51] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'AI automation'. Skipping...
+[2026-04-12 15:56:51] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI automation'
+[2026-04-12 15:56:58] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 15:57:01] [INFO] [upwork_scraper]   Waiting for page to load for 'AI chatbot' (Solve captcha if it appears!)...
+[2026-04-12 15:57:46] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'AI chatbot'. Skipping...
+[2026-04-12 15:57:46] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI chatbot'
+[2026-04-12 15:57:53] [INFO] [upwork_scraper] [3/5] Scraping keyword: 'SaaS'
+[2026-04-12 15:57:54] [INFO] [upwork_scraper]   Waiting for page to load for 'SaaS' (Solve captcha if it appears!)...
+[2026-04-12 15:58:39] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'SaaS'. Skipping...
+[2026-04-12 15:58:39] [INFO] [upwork_scraper]   -> Found 0 jobs for 'SaaS'
+[2026-04-12 15:58:46] [INFO] [upwork_scraper] [4/5] Scraping keyword: 'web development'
+[2026-04-12 15:58:47] [INFO] [upwork_scraper]   Waiting for page to load for 'web development' (Solve captcha if it appears!)...
+[2026-04-12 15:59:32] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'web development'. Skipping...
+[2026-04-12 15:59:32] [INFO] [upwork_scraper]   -> Found 0 jobs for 'web development'
+[2026-04-12 15:59:39] [INFO] [upwork_scraper] [5/5] Scraping keyword: 'app development'
+[2026-04-12 15:59:39] [INFO] [upwork_scraper]   Waiting for page to load for 'app development' (Solve captcha if it appears!)...
+[2026-04-12 16:00:25] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'app development'. Skipping...
+[2026-04-12 16:00:25] [INFO] [upwork_scraper]   -> Found 0 jobs for 'app development'
+[2026-04-12 16:00:29] [DEBUG] [upwork_scraper] WebDriver closed
+[2026-04-12 16:00:29] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 16:00:29] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0
+[2026-04-12 16:11:22] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 16:11:22] [INFO] [upwork_scraper] Upwork Scraper (Undetected Selenium Edition) — Starting
+[2026-04-12 16:11:22] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 16:11:22] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 16:11:37] [ERROR] [upwork_scraper] Failed to initialize Undetected Chrome WebDriver: Message: session not created: cannot connect to chrome at 127.0.0.1:59719
+from session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 146.0.7680.180; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xadc733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xadc864+10ca4]
+	undetected_chromedriver!(No symbol) [0x8b2100]
+	undetected_chromedriver!(No symbol) [0x8ed752]
+	undetected_chromedriver!(No symbol) [0x8ec77c]
+	undetected_chromedriver!(No symbol) [0x8e28a5]
+	undetected_chromedriver!(No symbol) [0x8e26c6]
+	undetected_chromedriver!(No symbol) [0x929dff]
+	undetected_chromedriver!(No symbol) [0x929617]
+	undetected_chromedriver!(No symbol) [0x91d9b6]
+	undetected_chromedriver!(No symbol) [0x8f0339]
+	undetected_chromedriver!(No symbol) [0x8f10f4]
+	undetected_chromedriver!GetHandleVerifier [0xd3fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xd3b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xd59bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xaf7188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xaff23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xae5138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xae5302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xace48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x75b9fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776482ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7764827e+ee]
+
+[2026-04-12 16:11:37] [ERROR] [upwork_scraper] Critical error during Upwork scraping: Message: session not created: cannot connect to chrome at 127.0.0.1:59719
+from session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 146.0.7680.180; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xadc733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xadc864+10ca4]
+	undetected_chromedriver!(No symbol) [0x8b2100]
+	undetected_chromedriver!(No symbol) [0x8ed752]
+	undetected_chromedriver!(No symbol) [0x8ec77c]
+	undetected_chromedriver!(No symbol) [0x8e28a5]
+	undetected_chromedriver!(No symbol) [0x8e26c6]
+	undetected_chromedriver!(No symbol) [0x929dff]
+	undetected_chromedriver!(No symbol) [0x929617]
+	undetected_chromedriver!(No symbol) [0x91d9b6]
+	undetected_chromedriver!(No symbol) [0x8f0339]
+	undetected_chromedriver!(No symbol) [0x8f10f4]
+	undetected_chromedriver!GetHandleVerifier [0xd3fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xd3b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xd59bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xaf7188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xaff23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xae5138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xae5302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xace48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x75b9fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776482ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7764827e+ee]
+
+[2026-04-12 16:11:37] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 16:11:37] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0
+[2026-04-12 16:14:59] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 16:14:59] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-12 16:14:59] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 16:14:59] [INFO] [upwork_scraper] ============================================================
+[2026-04-12 16:15:02] [INFO] [upwork_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 16:15:02] [INFO] [upwork_scraper] [1/5] Scraping keyword: 'AI automation'
+[2026-04-12 16:15:04] [INFO] [upwork_scraper]   Waiting for page to load for 'AI automation' (Solve captcha if it appears!)...
+[2026-04-12 16:16:04] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'AI automation'. Skipping...
+[2026-04-12 16:16:04] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI automation'
+[2026-04-12 16:16:12] [INFO] [upwork_scraper] [2/5] Scraping keyword: 'AI chatbot'
+[2026-04-12 16:16:12] [INFO] [upwork_scraper]   Waiting for page to load for 'AI chatbot' (Solve captcha if it appears!)...
+[2026-04-12 16:17:12] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'AI chatbot'. Skipping...
+[2026-04-12 16:17:12] [INFO] [upwork_scraper]   -> Found 0 jobs for 'AI chatbot'
+[2026-04-12 16:17:19] [INFO] [upwork_scraper] [3/5] Scraping keyword: 'SaaS'
+[2026-04-12 16:17:19] [INFO] [upwork_scraper]   Waiting for page to load for 'SaaS' (Solve captcha if it appears!)...
+[2026-04-12 16:18:20] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'SaaS'. Skipping...
+[2026-04-12 16:18:20] [INFO] [upwork_scraper]   -> Found 0 jobs for 'SaaS'
+[2026-04-12 16:18:27] [INFO] [upwork_scraper] [4/5] Scraping keyword: 'web development'
+[2026-04-12 16:18:28] [INFO] [upwork_scraper]   Waiting for page to load for 'web development' (Solve captcha if it appears!)...
+[2026-04-12 16:19:29] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'web development'. Skipping...
+[2026-04-12 16:19:29] [INFO] [upwork_scraper]   -> Found 0 jobs for 'web development'
+[2026-04-12 16:19:36] [INFO] [upwork_scraper] [5/5] Scraping keyword: 'app development'
+[2026-04-12 16:19:37] [INFO] [upwork_scraper]   Waiting for page to load for 'app development' (Solve captcha if it appears!)...
+[2026-04-12 16:20:37] [WARNING] [upwork_scraper]   Upwork Cloudflare challenge blocked us for 'app development'. Skipping...
+[2026-04-12 16:20:37] [INFO] [upwork_scraper]   -> Found 0 jobs for 'app development'
+[2026-04-12 16:20:39] [DEBUG] [upwork_scraper] WebDriver closed
+[2026-04-12 16:20:39] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-12 16:20:39] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0

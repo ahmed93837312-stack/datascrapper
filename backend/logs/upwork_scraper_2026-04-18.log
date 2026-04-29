@@ -1,0 +1,54 @@
+[2026-04-18 06:37:09] [INFO] [upwork_scraper] ============================================================
+[2026-04-18 06:37:09] [INFO] [upwork_scraper] Upwork Scraper (Selenium Edition) — Starting
+[2026-04-18 06:37:09] [INFO] [upwork_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-18 06:37:09] [INFO] [upwork_scraper] ============================================================
+[2026-04-18 06:37:21] [ERROR] [upwork_scraper] Failed to initialize Chrome WebDriver: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7e94f0245+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7e94f02b0+14740]
+	chromedriver!(No symbol) [0x7ff7e925d7cd]
+	chromedriver!(No symbol) [0x7ff7e929e28b]
+	chromedriver!(No symbol) [0x7ff7e9299559]
+	chromedriver!(No symbol) [0x7ff7e92edc21]
+	chromedriver!(No symbol) [0x7ff7e92ed486]
+	chromedriver!(No symbol) [0x7ff7e92a9018]
+	chromedriver!(No symbol) [0x7ff7e92a9f03]
+	chromedriver!GetHandleVerifier [0x7ff7e98058f9+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7e97ffe46+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7e98230b2+347542]
+	chromedriver!GetHandleVerifier [0x7ff7e950d3d5+31865]
+	chromedriver!GetHandleVerifier [0x7ff7e951600c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7e94f9634+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7e94f97e6+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7e94de2f7+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffd033c7374+14]
+	ntdll!RtlUserThreadStart [0x7ffd0469cc91+21]
+
+[2026-04-18 06:37:21] [ERROR] [upwork_scraper] Critical error during Upwork scraping: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7e94f0245+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7e94f02b0+14740]
+	chromedriver!(No symbol) [0x7ff7e925d7cd]
+	chromedriver!(No symbol) [0x7ff7e929e28b]
+	chromedriver!(No symbol) [0x7ff7e9299559]
+	chromedriver!(No symbol) [0x7ff7e92edc21]
+	chromedriver!(No symbol) [0x7ff7e92ed486]
+	chromedriver!(No symbol) [0x7ff7e92a9018]
+	chromedriver!(No symbol) [0x7ff7e92a9f03]
+	chromedriver!GetHandleVerifier [0x7ff7e98058f9+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7e97ffe46+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7e98230b2+347542]
+	chromedriver!GetHandleVerifier [0x7ff7e950d3d5+31865]
+	chromedriver!GetHandleVerifier [0x7ff7e951600c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7e94f9634+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7e94f97e6+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7e94de2f7+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffd033c7374+14]
+	ntdll!RtlUserThreadStart [0x7ffd0469cc91+21]
+
+[2026-04-18 06:37:21] [WARNING] [upwork_scraper] No results to write — CSV not created.
+[2026-04-18 06:37:21] [INFO] [upwork_scraper] Upwork Scraper — Done. Total unique jobs: 0

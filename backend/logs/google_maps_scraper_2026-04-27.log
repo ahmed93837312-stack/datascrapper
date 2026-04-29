@@ -1,0 +1,9 @@
+[2026-04-27 11:28:16] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'real estate' in 'Bahrain'
+[2026-04-27 11:29:16] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-27 11:29:16] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/real+estate+in+Bahrain/
+[2026-04-27 11:29:28] [INFO] [google_maps_scraper] 'Open Maps app' prompt dismissed (clicked 'Keep using web').
+[2026-04-27 11:29:30] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-27 11:29:55] [ERROR] [google_maps_scraper] Timed out waiting for result cards. Page may be blocked or search returned nothing.
+[2026-04-27 11:29:55] [INFO] [google_maps_scraper] Debug screenshot saved: C:\datascrap\backend\gmaps_no_results_found_1777314595.png
+[2026-04-27 11:29:55] [WARNING] [google_maps_scraper] No result links found. Check debug screenshot.
+[2026-04-27 11:29:58] [INFO] [google_maps_scraper] WebDriver closed.

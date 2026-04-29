@@ -1,0 +1,24 @@
+# ============================================================
+# DataScrap Agent — Python Dependencies
+# ============================================================
+# Install with:  pip install -r requirements.txt
+# ============================================================
+
+# --- HTTP & Scraping ---
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# --- Browser Automation (LinkedIn) ---
+selenium>=4.18.0
+webdriver-manager>=4.0.0
+
+# --- API Server ---
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# --- Environment Variables ---
+python-dotenv>=1.0.0
+
+# --- Advanced Features ---
+fake-useragent>=1.5.0

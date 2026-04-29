@@ -1,0 +1,68 @@
+[2026-04-12 15:06:48] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:06:48] [INFO] [linkedin_scraper] LinkedIn Scraper — Starting
+[2026-04-12 15:06:48] [INFO] [linkedin_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:06:48] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:06:59] [INFO] [linkedin_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:06:59] [INFO] [linkedin_scraper] Logging in to LinkedIn…
+[2026-04-12 15:07:35] [WARNING] [linkedin_scraper] LinkedIn security challenge detected. You may need to run in non-headless mode and complete the verification manually.
+[2026-04-12 15:07:35] [WARNING] [linkedin_scraper] Login may not have succeeded. Current URL: https://www.linkedin.com/checkpoint/challenge/AgF2hj2d6Zzi3AAAAZ2DvEkcmaWGK56uX-1g18wFtmYBKsghaw67eJt0J0iOcJMbpEYao2epecjpgjcBjd5uOdNVv_gt3A?ut=0iQIPu8sIfGYc1
+[2026-04-12 15:07:35] [INFO] [linkedin_scraper] [1/5] Searching: 'AI automation'
+[2026-04-12 15:07:35] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=0
+[2026-04-12 15:15:08] [DEBUG] [linkedin_scraper]   Error parsing job card: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-04-12 15:32:30] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:32:30] [INFO] [linkedin_scraper] LinkedIn Scraper — Starting
+[2026-04-12 15:32:30] [INFO] [linkedin_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:32:30] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:32:31] [INFO] [linkedin_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:32:31] [INFO] [linkedin_scraper] Logging in to LinkedIn…
+[2026-04-12 15:32:55] [WARNING] [linkedin_scraper] LinkedIn security challenge detected. You may need to run in non-headless mode and complete the verification manually.
+[2026-04-12 15:32:55] [WARNING] [linkedin_scraper] Login may not have succeeded. Current URL: https://www.linkedin.com/checkpoint/challenge/AgEO5DGnO2iTBQAAAZ2D03yCCgs363YESehsH2YPWaiokExWbQiKI2IJ95LZZphd8CTjq7jwwH5ZVr6VUEP5VRC-1gFPQg?ut=1idGscjbAEGYc1
+[2026-04-12 15:32:55] [INFO] [linkedin_scraper] [1/5] Searching: 'AI automation'
+[2026-04-12 15:32:55] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=0
+[2026-04-12 15:34:09] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:34:09] [INFO] [linkedin_scraper] LinkedIn Scraper — Starting
+[2026-04-12 15:34:09] [INFO] [linkedin_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:34:09] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:34:11] [INFO] [linkedin_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:34:11] [INFO] [linkedin_scraper] Logging in to LinkedIn…
+[2026-04-12 15:34:34] [WARNING] [linkedin_scraper] LinkedIn security challenge detected. You may need to run in non-headless mode and complete the verification manually.
+[2026-04-12 15:34:34] [INFO] [linkedin_scraper] Waiting 60 seconds for manual verification…
+[2026-04-12 15:36:16] [INFO] [linkedin_scraper] ✓ Login successful
+[2026-04-12 15:36:16] [INFO] [linkedin_scraper] [1/5] Searching: 'AI automation'
+[2026-04-12 15:36:16] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=0
+[2026-04-12 15:49:38] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=25
+[2026-04-12 15:52:56] [DEBUG] [linkedin_scraper] WebDriver closed
+[2026-04-12 15:53:00] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:53:00] [INFO] [linkedin_scraper] LinkedIn Scraper — Starting
+[2026-04-12 15:53:00] [INFO] [linkedin_scraper] Keywords: AI automation, AI chatbot, SaaS, web development, app development
+[2026-04-12 15:53:00] [INFO] [linkedin_scraper] ============================================================
+[2026-04-12 15:53:02] [INFO] [linkedin_scraper] Chrome WebDriver initialized successfully
+[2026-04-12 15:53:02] [INFO] [linkedin_scraper] Logging in to LinkedIn…
+[2026-04-12 15:53:48] [INFO] [linkedin_scraper] ✓ Login successful
+[2026-04-12 15:53:48] [INFO] [linkedin_scraper] [1/5] Searching: 'AI automation'
+[2026-04-12 15:53:48] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=0
+[2026-04-12 15:54:38] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=25
+[2026-04-12 15:55:21] [DEBUG] [linkedin_scraper]   Page 3: https://www.linkedin.com/jobs/search/?keywords=AI automation&start=50
+[2026-04-12 15:56:00] [INFO] [linkedin_scraper]   → Found 21 jobs for 'AI automation'
+[2026-04-12 15:56:06] [INFO] [linkedin_scraper] [2/5] Searching: 'AI chatbot'
+[2026-04-12 15:56:06] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=AI chatbot&start=0
+[2026-04-12 15:56:46] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=AI chatbot&start=25
+[2026-04-12 15:57:25] [DEBUG] [linkedin_scraper]   Page 3: https://www.linkedin.com/jobs/search/?keywords=AI chatbot&start=50
+[2026-04-12 15:58:29] [INFO] [linkedin_scraper]   → Found 21 jobs for 'AI chatbot'
+[2026-04-12 15:58:33] [INFO] [linkedin_scraper] [3/5] Searching: 'SaaS'
+[2026-04-12 15:58:33] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=SaaS&start=0
+[2026-04-12 15:59:14] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=SaaS&start=25
+[2026-04-12 15:59:50] [DEBUG] [linkedin_scraper]   Page 3: https://www.linkedin.com/jobs/search/?keywords=SaaS&start=50
+[2026-04-12 16:00:25] [INFO] [linkedin_scraper]   → Found 21 jobs for 'SaaS'
+[2026-04-12 16:00:31] [INFO] [linkedin_scraper] [4/5] Searching: 'web development'
+[2026-04-12 16:00:31] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=web development&start=0
+[2026-04-12 16:01:08] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=web development&start=25
+[2026-04-12 16:01:44] [DEBUG] [linkedin_scraper]   Page 3: https://www.linkedin.com/jobs/search/?keywords=web development&start=50
+[2026-04-12 16:02:23] [INFO] [linkedin_scraper]   → Found 21 jobs for 'web development'
+[2026-04-12 16:02:29] [INFO] [linkedin_scraper] [5/5] Searching: 'app development'
+[2026-04-12 16:02:29] [DEBUG] [linkedin_scraper]   Page 1: https://www.linkedin.com/jobs/search/?keywords=app development&start=0
+[2026-04-12 16:03:13] [DEBUG] [linkedin_scraper]   Page 2: https://www.linkedin.com/jobs/search/?keywords=app development&start=25
+[2026-04-12 16:03:53] [DEBUG] [linkedin_scraper]   Page 3: https://www.linkedin.com/jobs/search/?keywords=app development&start=50
+[2026-04-12 16:04:32] [INFO] [linkedin_scraper]   → Found 21 jobs for 'app development'
+[2026-04-12 16:08:33] [DEBUG] [linkedin_scraper] WebDriver closed
+[2026-04-12 16:08:33] [INFO] [linkedin_scraper] LinkedIn Scraper — Done. Total unique jobs: 84

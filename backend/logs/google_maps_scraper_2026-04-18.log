@@ -1,0 +1,207 @@
+[2026-04-18 06:32:43] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-18 06:33:21] [INFO] [google_maps_scraper] Searching for: gyms in Dubai
+[2026-04-18 06:34:31] [INFO] [google_maps_scraper] Scrolling results sidebar...
+[2026-04-18 06:35:21] [WARNING] [google_maps_scraper] Could not find specific results feed element. Attempting to extract directly from page.
+[2026-04-18 06:36:01] [WARNING] [google_maps_scraper] No listings found with any known selectors.
+[2026-04-18 06:36:01] [WARNING] [google_maps_scraper] No data to save.
+[2026-04-18 06:36:01] [INFO] [google_maps_scraper] Scraping complete. Found 0 listings.
+[2026-04-18 06:36:04] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 06:42:12] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-18 06:42:17] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 06:42:17] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/gyms+in+Dubai/
+[2026-04-18 06:42:27] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 06:42:52] [ERROR] [google_maps_scraper] Timed out waiting for result cards. Page may be blocked or search returned nothing.
+[2026-04-18 06:42:52] [INFO] [google_maps_scraper] Debug screenshot saved: C:\datascrap\backend\gmaps_no_results_found_1776519772.png
+[2026-04-18 06:42:52] [WARNING] [google_maps_scraper] No result links found. Check debug screenshot.
+[2026-04-18 06:42:55] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 06:43:47] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-18 06:44:34] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 06:44:34] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/gyms+in+Dubai/
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper] Scrolling to collect up to 5 results...
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper]   Scroll pass 1: 6 unique links collected.
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper] Hit max_results cap (5).
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper] Collected 6 result links.
+[2026-04-18 06:44:53] [INFO] [google_maps_scraper] Extracting data from 5 listings...
+[2026-04-18 06:45:00] [INFO] [google_maps_scraper]   [1/5] ✓ Noor Al Kahn Fitness Center | +971505114201 | 5.0★ | 19 reviews
+[2026-04-18 06:45:09] [INFO] [google_maps_scraper]   [2/5] ✓ Rocky Road Boxing Club | +971585655365 | 4.9★ | 112 reviews
+[2026-04-18 06:45:27] [INFO] [google_maps_scraper]   [3/5] ✓ GymNation Bur Dubai | Best Gym In Bur Dubai | +97144444444 | 4.7★ | 9908 reviews
+[2026-04-18 06:45:36] [INFO] [google_maps_scraper]   [4/5] ✓ The Warehouse Gym - Al Quoz | +97142095338 | 4.6★ | 1529 reviews
+[2026-04-18 06:45:43] [INFO] [google_maps_scraper]   [5/5] ✓ Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym | +97142237637 | 4.5★ | 871 reviews
+[2026-04-18 06:45:43] [INFO] [google_maps_scraper] Saved 5 records.
+[2026-04-18 06:45:43] [INFO] [google_maps_scraper] Scraping complete. Found 5 listings.
+[2026-04-18 06:45:46] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 06:57:28] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-18 06:57:56] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 06:57:56] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/gyms+in+Dubai/
+[2026-04-18 06:58:06] [INFO] [google_maps_scraper] 'Open Maps app' prompt dismissed (clicked 'Keep using web').
+[2026-04-18 06:58:08] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 06:58:33] [ERROR] [google_maps_scraper] Timed out waiting for result cards. Page may be blocked or search returned nothing.
+[2026-04-18 06:58:33] [INFO] [google_maps_scraper] Debug screenshot saved: C:\datascrap\backend\gmaps_no_results_found_1776520713.png
+[2026-04-18 06:58:33] [WARNING] [google_maps_scraper] No result links found. Check debug screenshot.
+[2026-04-18 06:58:36] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 07:04:53] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 07:04:53] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/gyms+in+Dubai/
+[2026-04-18 07:05:19] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 07:09:04] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'gyms' in 'Dubai'
+[2026-04-18 07:09:08] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 07:09:08] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/gyms+in+Dubai/
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper] Scrolling to collect up to 5 results...
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper]   Scroll pass 1: 6 unique links collected.
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper] Hit max_results cap (5).
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper] Collected 6 result links.
+[2026-04-18 07:09:27] [INFO] [google_maps_scraper] Extracting data from 5 listings...
+[2026-04-18 07:09:36] [INFO] [google_maps_scraper]   [1/5] OK  Noor Al Kahn Fitness Center | +971505114201 | 5.0 stars | 19 reviews
+[2026-04-18 07:09:43] [INFO] [google_maps_scraper]   [2/5] OK  Viya Fit Mina Seyahi | +97142054590 | 4.3 stars | 38 reviews
+[2026-04-18 07:09:50] [INFO] [google_maps_scraper]   [3/5] OK  GymNation Bur Dubai | Best Gym In Bur Dubai | +97144444444 | 4.7 stars | 9908 reviews
+[2026-04-18 07:09:57] [INFO] [google_maps_scraper]   [4/5] OK  The Warehouse Gym - Al Quoz | +97142095338 | 4.6 stars | 1529 reviews
+[2026-04-18 07:10:03] [INFO] [google_maps_scraper]   [5/5] OK  Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym | +97142237637 | 4.5 stars | 871 reviews
+[2026-04-18 07:10:03] [INFO] [google_maps_scraper] Saved 5 records.
+[2026-04-18 07:10:03] [INFO] [google_maps_scraper] Scraping complete. Found 5 listings.
+[2026-04-18 07:10:06] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 07:15:19] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'dentists' in 'Dubai'
+[2026-04-18 07:15:25] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 07:15:25] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/dentists+in+Dubai/
+[2026-04-18 07:15:45] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 07:16:10] [ERROR] [google_maps_scraper] Timed out waiting for result cards. Page may be blocked or search returned nothing.
+[2026-04-18 07:16:10] [INFO] [google_maps_scraper] Debug screenshot saved: C:\datascrap\backend\gmaps_no_results_found_1776521770.png
+[2026-04-18 07:16:10] [WARNING] [google_maps_scraper] No result links found. Check debug screenshot.
+[2026-04-18 07:16:13] [INFO] [google_maps_scraper] WebDriver closed.
+[2026-04-18 07:16:38] [INFO] [google_maps_scraper] Starting Google Maps Scraper for 'real estate' in 'Dubai'
+[2026-04-18 07:17:05] [INFO] [google_maps_scraper] Chrome WebDriver initialised.
+[2026-04-18 07:17:05] [INFO] [google_maps_scraper] Navigating to: https://www.google.com/maps/search/real+estate+in+Dubai/
+[2026-04-18 07:17:25] [INFO] [google_maps_scraper] Waiting for results sidebar to load...
+[2026-04-18 07:17:25] [INFO] [google_maps_scraper] Scrolling to collect up to 100 results...
+[2026-04-18 07:17:25] [INFO] [google_maps_scraper]   Scroll pass 1: 9 unique links collected.
+[2026-04-18 07:17:28] [INFO] [google_maps_scraper]   Scroll pass 2: 9 unique links collected.
+[2026-04-18 07:17:29] [INFO] [google_maps_scraper]   Scroll pass 3: 18 unique links collected.
+[2026-04-18 07:17:32] [INFO] [google_maps_scraper]   Scroll pass 4: 18 unique links collected.
+[2026-04-18 07:17:33] [INFO] [google_maps_scraper]   Scroll pass 5: 20 unique links collected.
+[2026-04-18 07:17:37] [INFO] [google_maps_scraper]   Scroll pass 6: 25 unique links collected.
+[2026-04-18 07:17:39] [INFO] [google_maps_scraper]   Scroll pass 7: 25 unique links collected.
+[2026-04-18 07:17:42] [INFO] [google_maps_scraper]   Scroll pass 8: 32 unique links collected.
+[2026-04-18 07:17:45] [INFO] [google_maps_scraper]   Scroll pass 9: 32 unique links collected.
+[2026-04-18 07:17:47] [INFO] [google_maps_scraper]   Scroll pass 10: 34 unique links collected.
+[2026-04-18 07:17:56] [INFO] [google_maps_scraper]   Scroll pass 11: 42 unique links collected.
+[2026-04-18 07:17:58] [INFO] [google_maps_scraper]   Scroll pass 12: 42 unique links collected.
+[2026-04-18 07:18:00] [INFO] [google_maps_scraper]   Scroll pass 13: 51 unique links collected.
+[2026-04-18 07:18:03] [INFO] [google_maps_scraper]   Scroll pass 14: 51 unique links collected.
+[2026-04-18 07:18:05] [INFO] [google_maps_scraper]   Scroll pass 15: 53 unique links collected.
+[2026-04-18 07:18:13] [INFO] [google_maps_scraper]   Scroll pass 16: 62 unique links collected.
+[2026-04-18 07:18:16] [INFO] [google_maps_scraper]   Scroll pass 17: 62 unique links collected.
+[2026-04-18 07:18:19] [INFO] [google_maps_scraper]   Scroll pass 18: 71 unique links collected.
+[2026-04-18 07:18:22] [INFO] [google_maps_scraper]   Scroll pass 19: 71 unique links collected.
+[2026-04-18 07:18:25] [INFO] [google_maps_scraper]   Scroll pass 20: 73 unique links collected.
+[2026-04-18 07:18:32] [INFO] [google_maps_scraper]   Scroll pass 21: 81 unique links collected.
+[2026-04-18 07:18:35] [INFO] [google_maps_scraper]   Scroll pass 22: 81 unique links collected.
+[2026-04-18 07:18:38] [INFO] [google_maps_scraper]   Scroll pass 23: 90 unique links collected.
+[2026-04-18 07:18:41] [INFO] [google_maps_scraper]   Scroll pass 24: 90 unique links collected.
+[2026-04-18 07:18:44] [INFO] [google_maps_scraper]   Scroll pass 25: 92 unique links collected.
+[2026-04-18 07:19:01] [INFO] [google_maps_scraper]   Scroll pass 26: 101 unique links collected.
+[2026-04-18 07:19:01] [INFO] [google_maps_scraper] Hit max_results cap (100).
+[2026-04-18 07:19:01] [INFO] [google_maps_scraper] Collected 101 result links.
+[2026-04-18 07:19:01] [INFO] [google_maps_scraper] Extracting data from 100 listings...
+[2026-04-18 07:19:36] [INFO] [google_maps_scraper]   [1/100] OK  Homes 4 Life Real Estate - Town Square Dubai Office | +971568188620 | 4.8 stars | 915 reviews
+[2026-04-18 07:19:45] [INFO] [google_maps_scraper]   [2/100] OK  Christie’s International Real Estate Dubai | +97144252780 | 4.7 stars | 106 reviews
+[2026-04-18 07:20:05] [INFO] [google_maps_scraper]   [3/100] OK  Xperience Realty Real Estate | +971564080888 | 4.9 stars | 437 reviews
+[2026-04-18 07:20:12] [INFO] [google_maps_scraper]   [4/100] OK  Next Level Real Estate - Award Winning Real Estate Agency in Dubai | +97144542828 | 4.5 stars | 116 reviews
+[2026-04-18 07:20:22] [INFO] [google_maps_scraper]   [5/100] OK  Al Ayan Real Estate Broker LLC | +971553030652 | 4.8 stars | 1037 reviews
+[2026-04-18 07:20:29] [INFO] [google_maps_scraper]   [6/100] OK  District Real Estate | +97148800373 | 4.8 stars | 56 reviews
+[2026-04-18 07:20:44] [INFO] [google_maps_scraper]   [7/100] OK  Dacha Real Estate | +97144232006 | 4.8 stars | 1411 reviews
+[2026-04-18 07:21:10] [INFO] [google_maps_scraper]   [8/100] OK  Provident Real Estate | +97143233609 | 4.6 stars | 518 reviews
+[2026-04-18 07:21:17] [INFO] [google_maps_scraper]   [9/100] OK  HUAXIA REAL ESTATE BROKERS - DUBAI | 迪拜华夏地产 | +97145897440 | 4.5 stars | 98 reviews
+[2026-04-18 07:21:27] [INFO] [google_maps_scraper]   [10/100] OK  XSITE REAL ESTATE BROKERS | +97143687000 | 4.8 stars | 819 reviews
+[2026-04-18 07:21:40] [INFO] [google_maps_scraper]   [11/100] OK  Union Square House Real Estate | +97144589090 | 4.8 stars | 390 reviews
+[2026-04-18 07:22:06] [INFO] [google_maps_scraper]   [12/100] OK  Silver Keys Real Estate L.L.C - Real Estate Company in Dubai | +971555339696 | 4.1 stars | 40 reviews
+[2026-04-18 07:22:15] [INFO] [google_maps_scraper]   [13/100] OK  Smart Folks Real Estate Brokers | +971552828039 | 4.8 stars | 52 reviews
+[2026-04-18 07:22:31] [INFO] [google_maps_scraper]   [14/100] OK  Impressive Real Estate LLC | +971507465012 | 4.9 stars | 91 reviews
+[2026-04-18 07:22:41] [INFO] [google_maps_scraper]   [15/100] OK  Strada Real Estate Brokerage | +97145476400 | 4.7 stars | 290 reviews
+[2026-04-18 07:22:48] [INFO] [google_maps_scraper]   [16/100] OK  Springfield Properties | +97144542588 | 4.8 stars | 387 reviews
+[2026-04-18 07:23:16] [INFO] [google_maps_scraper]   [17/100] OK  Jade & Co Real Estate | +97142998866 | 4.9 stars | 159 reviews
+[2026-04-18 07:23:26] [INFO] [google_maps_scraper]   [18/100] OK  REAL DUBAI - Lovisa Homes Real Estate Broker LLC | N/A | 5.0 stars | 35 reviews
+[2026-04-18 07:23:37] [INFO] [google_maps_scraper]   [19/100] OK  Green Desert Real Estate Dubai | +971503242054 | 4.7 stars | 84 reviews
+[2026-04-18 07:23:47] [INFO] [google_maps_scraper]   [20/100] OK  Al Amman Properties | +971569192376 | 4.9 stars | 170 reviews
+[2026-04-18 07:24:01] [INFO] [google_maps_scraper]   [21/100] OK  Cavendish Maxwell - Sharjah | +97167150444 | 4.3 stars | 6 reviews
+[2026-04-18 07:24:14] [INFO] [google_maps_scraper]   [22/100] OK  Auric Acres Real Estate Brokers, Dubai, UAE | +971529578280 | 4.7 stars | 29 reviews
+[2026-04-18 07:24:24] [INFO] [google_maps_scraper]   [23/100] OK  Arabian Estates - Real Estate Agency Dubai | +97143243137 | 4.8 stars | 141 reviews
+[2026-04-18 07:24:40] [INFO] [google_maps_scraper]   [24/100] OK  Axis Real Estate Brokerage Dubai | +971528759269 | 4.9 stars | 93 reviews
+[2026-04-18 07:24:59] [INFO] [google_maps_scraper]   [25/100] OK  Aaronz & Co. Real Estate Services | +97145849243 | 4.9 stars | 497 reviews
+[2026-04-18 07:25:05] [INFO] [google_maps_scraper]   [26/100] OK  Unique Properties | +97144558888 | 4.7 stars | 323 reviews
+[2026-04-18 07:25:11] [INFO] [google_maps_scraper]   [27/100] OK  H&S Real Estate | +97143454888 | 4.5 stars | 305 reviews
+[2026-04-18 07:25:36] [INFO] [google_maps_scraper]   [28/100] OK  Excel Properties | Top Real Estate Broker in Dubai since 2001 | +97143364447 | 4.7 stars | 71 reviews
+[2026-04-18 07:25:41] [INFO] [google_maps_scraper]   [29/100] OK  House & Hedges Real Estate - Head Office | +971523362441 | 4.7 stars | 395 reviews
+[2026-04-18 07:25:54] [INFO] [google_maps_scraper]   [30/100] OK  Dream Catcher Homes Real Estate | +97142833746 | 4.9 stars | 67 reviews
+[2026-04-18 07:26:19] [INFO] [google_maps_scraper]   [31/100] OK  HAUS 51 REAL ESTATE | +971585152888 | 5.0 stars | 68 reviews
+[2026-04-18 07:26:27] [INFO] [google_maps_scraper]   [32/100] OK  Nexus Properties | +97145693670 | 4.9 stars | 156 reviews
+[2026-04-18 07:26:37] [INFO] [google_maps_scraper]   [33/100] OK  Homeland Realty Real Estate | +971556610000 | 4.9 stars | 209 reviews
+[2026-04-18 07:26:46] [INFO] [google_maps_scraper]   [34/100] OK  Seven Century Real Estate Brokers L.L.C | +97144520077 | 4.2 stars | 663 reviews
+[2026-04-18 07:26:50] [INFO] [google_maps_scraper]   [35/100] OK  Vera Real Estate LLC | +97145582006 | 4.8 stars | 70 reviews
+[2026-04-18 07:27:02] [INFO] [google_maps_scraper]   [36/100] OK  Aston Pearl Real Estate | +97143928831 | 4.8 stars | 428 reviews
+[2026-04-18 07:27:09] [INFO] [google_maps_scraper]   [37/100] OK  JLL Dubai Real Estate | +97144266999 | 4.2 stars | 71 reviews
+[2026-04-18 07:27:17] [INFO] [google_maps_scraper]   [38/100] OK  Al Mirath Real Estates | +97145469777 | 4.7 stars | 173 reviews
+[2026-04-18 07:27:22] [INFO] [google_maps_scraper]   [39/100] OK  Alba Homes - Real Estate Agency Dubai | +971588107254 | 4.5 stars | 44 reviews
+[2026-04-18 07:27:31] [INFO] [google_maps_scraper]   [40/100] OK  Coral Shore Real Estate Brokers - Dubai Branch | +97143885866 | 4.0 stars | 24 reviews
+[2026-04-18 07:27:42] [INFO] [google_maps_scraper]   [41/100] OK  Real Choice Real Estate Brokers LLC | +97143588070 | 4.7 stars | 143 reviews
+[2026-04-18 07:28:14] [INFO] [google_maps_scraper]   [42/100] OK  THE CAPITAL Dubai | +97146086560 | 4.6 stars | 21 reviews
+[2026-04-18 07:28:21] [INFO] [google_maps_scraper]   [43/100] OK  Tribeca Real Estate LLC | +971552271845 | 4.8 stars | 44 reviews
+[2026-04-18 07:28:34] [INFO] [google_maps_scraper]   [44/100] OK  K Estates Dubai | +97145299724 | 4.9 stars | 88 reviews
+[2026-04-18 07:28:47] [INFO] [google_maps_scraper]   [45/100] OK  Binayah Properties LLC | +97142438479 | 4.4 stars | 148 reviews
+[2026-04-18 07:29:35] [INFO] [google_maps_scraper]   [46/100] OK  DRE (Homes Real Estate) | +97180037373 | 4.5 stars | 651 reviews
+[2026-04-18 07:30:14] [INFO] [google_maps_scraper]   [47/100] OK  MHM Real Estate | N/A | 4.7 stars | 320 reviews
+[2026-04-18 07:30:41] [INFO] [google_maps_scraper]   [48/100] OK  D&B Properties | +97148719200 | 4.9 stars | 3507 reviews
+[2026-04-18 07:31:07] [INFO] [google_maps_scraper]   [49/100] OK  ELITE Property Brokerage | +97147701087 | 4.9 stars | 333 reviews
+[2026-04-18 07:31:27] [INFO] [google_maps_scraper]   [50/100] OK  Superiority Real Estate | N/A | 4.4 stars | 149 reviews
+[2026-04-18 07:31:43] [INFO] [google_maps_scraper]   [51/100] OK  Unique Zone Real Estate - Property for Rent and Sale in Dubai | +971552697381 | 4.6 stars | 57 reviews
+[2026-04-18 07:31:50] [INFO] [google_maps_scraper]   [52/100] OK  Think Realty | +97145686653 | 4.8 stars | 180 reviews
+[2026-04-18 07:32:01] [INFO] [google_maps_scraper]   [53/100] OK  Expert Homes Real Estate | +971567252381 | 4.7 stars | 157 reviews
+[2026-04-18 07:32:08] [INFO] [google_maps_scraper]   [54/100] OK  A1 Properties | +97180021776789 | 4.5 stars | 178 reviews
+[2026-04-18 07:32:14] [INFO] [google_maps_scraper]   [55/100] OK  Amber Homes Real Estate | +97143684497 | 4.5 stars | 68 reviews
+[2026-04-18 07:32:20] [INFO] [google_maps_scraper]   [56/100] OK  Seven Skys Real Estate Dubai | +97144231104 | 4.4 stars | 44 reviews
+[2026-04-18 07:32:35] [INFO] [google_maps_scraper]   [57/100] OK  Magus Real Estate Brokers LLC | +97143039700 | 4.9 stars | 49 reviews
+[2026-04-18 07:32:44] [INFO] [google_maps_scraper]   [58/100] OK  SAMS Real Estate Brokerage | +97145578812 | 4.7 stars | 69 reviews
+[2026-04-18 07:32:52] [INFO] [google_maps_scraper]   [59/100] OK  Seven Luxury Real Estate | +97144217770 | 4.2 stars | 25 reviews
+[2026-04-18 07:32:58] [INFO] [google_maps_scraper]   [60/100] OK  Luxfolio Real Estate | +97143356007 | 4.6 stars | 385 reviews
+[2026-04-18 07:33:09] [INFO] [google_maps_scraper]   [61/100] OK  Alexander Kaminsky Real Estate | +971556621503 | 5.0 stars | 128 reviews
+[2026-04-18 07:33:20] [INFO] [google_maps_scraper]   [62/100] OK  Stone House Real Estate, Dubai | +971568438666 | 4.2 stars | 37 reviews
+[2026-04-18 07:33:32] [INFO] [google_maps_scraper]   [63/100] OK  Fair Worth Real Estate Brokers | +971502516838 | 4.1 stars | 39 reviews
+[2026-04-18 07:33:49] [INFO] [google_maps_scraper]   [64/100] OK  KAYE & CO REAL ESTATE L.L.C. | +97145830001 | 4.7 stars | 143 reviews
+[2026-04-18 07:34:19] [INFO] [google_maps_scraper]   [65/100] OK  EverNest Real Estate L.LC | +97145843555 | 4.7 stars | 148 reviews
+[2026-04-18 07:34:32] [INFO] [google_maps_scraper]   [66/100] OK  Primo Capital Real Estate | +97142803528 | 4.8 stars | 147 reviews
+[2026-04-18 07:35:32] [INFO] [google_maps_scraper]   [67/100] OK  Wikihomes Real Estate Brokers LLC | +97145125713 | 4.8 stars | 153 reviews
+[2026-04-18 07:35:45] [INFO] [google_maps_scraper]   [68/100] OK  Luxury Homes Real Estate | +97145807446 | 4.5 stars | 53 reviews
+[2026-04-18 07:36:00] [INFO] [google_maps_scraper]   [69/100] OK  99 Real Estate Brokers LLC | +971800289 | 4.9 stars | 37 reviews
+[2026-04-18 07:36:07] [INFO] [google_maps_scraper]   [70/100] OK  Driven Properties LLC - HQ | +97142454800 | 4.5 stars | 1392 reviews
+[2026-04-18 07:36:19] [INFO] [google_maps_scraper]   [71/100] OK  Valor Real Estate | +97147181421 | 4.9 stars | 51 reviews
+[2026-04-18 07:36:26] [INFO] [google_maps_scraper]   [72/100] OK  betterhomes - Dubai (Head Office) | +971600522233 | 4.3 stars | 931 reviews
+[2026-04-18 07:36:30] [INFO] [google_maps_scraper]   [73/100] OK  Imperial Homes Real Estate Brokers | +97144274076 | 4.7 stars | 58 reviews
+[2026-04-18 07:36:39] [INFO] [google_maps_scraper]   [74/100] OK  OBG Real Estate Broker in Dubai | +97145825999 | 4.1 stars | 99 reviews
+[2026-04-18 07:37:02] [INFO] [google_maps_scraper]   [75/100] OK  LuxuryProperty.com | +97145635900 | 4.7 stars | 331 reviews
+[2026-04-18 07:37:12] [INFO] [google_maps_scraper]   [76/100] OK  Trillium Real Estate Dubai | +971564444105 | 4.9 stars | 41 reviews
+[2026-04-18 07:37:23] [INFO] [google_maps_scraper]   [77/100] OK  Kore Real Estate | +97145852863 | 5.0 stars | 187 reviews
+[2026-04-18 07:37:42] [INFO] [google_maps_scraper]   [78/100] OK  Square Yards - Dubai | +971543062591 | 3.8 stars | 1377 reviews
+[2026-04-18 07:37:52] [INFO] [google_maps_scraper]   [79/100] OK  AKT Real Estate DUBAI | +971505184986 | 4.4 stars | 37 reviews
+[2026-04-18 07:38:03] [INFO] [google_maps_scraper]   [80/100] OK  Properties Exchange Real Estate | +97143303114 | 4.8 stars | 99 reviews
+[2026-04-18 07:38:37] [INFO] [google_maps_scraper]   [81/100] OK  Paradise Oasis Real Estate Brokers | +97144508298 | 4.7 stars | 143 reviews
+[2026-04-18 07:38:48] [INFO] [google_maps_scraper]   [82/100] OK  YP - Your Place Real Estate | +97143682168 | 3.6 stars | 88 reviews
+[2026-04-18 07:39:03] [INFO] [google_maps_scraper]   [83/100] OK  Pin Homes Real Estate LLC | +971585293432 | 4.9 stars | 71 reviews
+[2026-04-18 07:39:11] [INFO] [google_maps_scraper]   [84/100] OK  BRD International Real Estate LLC (Luxury Dubai Homes) | +971505342719 | 5.0 stars | 26 reviews
+[2026-04-18 07:39:16] [INFO] [google_maps_scraper]   [85/100] OK  Aventa Real Estate LLC | +971581680468 | 5.0 stars | 46 reviews
+[2026-04-18 07:39:29] [INFO] [google_maps_scraper]   [86/100] OK  Deja Vu Real Estate | +971542799723 | 4.3 stars | 184 reviews
+[2026-04-18 07:39:42] [INFO] [google_maps_scraper]   [87/100] OK  GxLloyd - Dubai Immobilien | +971563946059 | 4.8 stars | 45 reviews
+[2026-04-18 07:39:50] [INFO] [google_maps_scraper]   [88/100] OK  Abode Property | +97148812777 | 4.6 stars | 67 reviews
+[2026-04-18 07:39:57] [INFO] [google_maps_scraper]   [89/100] OK  Loam Real Estate - Best Real Estate Agency in Dubai | +97145762722 | 4.4 stars | 60 reviews
+[2026-04-18 07:40:13] [INFO] [google_maps_scraper]   [90/100] OK  ARK Real Estate Dubai | +971586278678 | 4.8 stars | 42 reviews
+[2026-04-18 07:40:28] [INFO] [google_maps_scraper]   [91/100] OK  Sacred Lands Group | Real estate investment in India | Buy Property in India From Dubai | +971523652776 | 4.8 stars | 33 reviews
+[2026-04-18 07:40:37] [INFO] [google_maps_scraper]   [92/100] OK  Bab Alwaha Real Estate - Real Estate Agent Dubai | +971528883144 | 4.1 stars | 75 reviews
+[2026-04-18 07:41:03] [INFO] [google_maps_scraper]   [93/100] OK  Shababeek Real Estate | +971555592484 | 4.9 stars | 92 reviews
+[2026-04-18 07:41:18] [INFO] [google_maps_scraper]   [94/100] OK  DNL Properties - Sales Boutique | +97145833365 | 4.9 stars | 73 reviews
+[2026-04-18 07:41:29] [INFO] [google_maps_scraper]   [95/100] OK  Houzon Real Estate | +97144523345 | 4.9 stars | 217 reviews
+[2026-04-18 07:41:38] [INFO] [google_maps_scraper]   [96/100] OK  La Capitale Real Estate | +971508885327 | 3.9 stars | 83 reviews
+[2026-04-18 07:41:48] [INFO] [google_maps_scraper]   [97/100] OK  Assets Real Estate | +97145587121 | 4.6 stars | 52 reviews
+[2026-04-18 07:42:03] [INFO] [google_maps_scraper]   [98/100] OK  Tesla Properties - Real Estate Company in Dubai | +97145853725 | 4.7 stars | 74 reviews
+[2026-04-18 07:42:14] [INFO] [google_maps_scraper]   [99/100] OK  Dubai Real Estate Corporation HQ | +97143986666 | 4.6 stars | 27 reviews
+[2026-04-18 07:42:23] [INFO] [google_maps_scraper]   [100/100] OK  Casa Nostra Real Estate Brokers | +97144385248 | 4.7 stars | 118 reviews
+[2026-04-18 07:42:25] [INFO] [google_maps_scraper] Saved 100 records.
+[2026-04-18 07:42:25] [INFO] [google_maps_scraper] Scraping complete. Found 100 listings.
+[2026-04-18 07:42:30] [INFO] [google_maps_scraper] WebDriver closed.
