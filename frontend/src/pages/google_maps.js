@@ -8,8 +8,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import ProgressBar from '@/components/ProgressBar';
-
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+import { getApiUrl } from '@/utils/api';
 
 const QUICK_NICHES = ['restaurants', 'gyms', 'marketing agencies', 'real estate', 'dentists', 'coworking spaces'];
 
@@ -26,7 +25,7 @@ export default function GoogleMapsPage() {
 
   const fetchPreview = useCallback(async () => {
     try {
-      const res = await fetch(`${API_BASE}/api/preview/google_maps?limit=50`);
+      const res = await fetch(getApiUrl('/api/preview/google_maps?limit=50'));
       if (res.ok) {
         const json = await res.json();
         setData(json.data || []);
@@ -42,7 +41,7 @@ export default function GoogleMapsPage() {
     if (status === 'running') {
       interval = setInterval(async () => {
         try {
-          const res = await fetch(`${API_BASE}/api/status/google_maps`);
+          const res = await fetch(getApiUrl('/api/status/google_maps'));
           const d = await res.json();
           setPercentage(d.percentage || 0);
           setMessage(d.message || '');
@@ -70,7 +69,7 @@ export default function GoogleMapsPage() {
     setPercentage(0); 
     setMessage('Initializing Google Maps Scraper…');
     try {
-      const res = await fetch(`${API_BASE}/api/scrape/google_maps?location=${encodeURIComponent(location)}&niche=${encodeURIComponent(niche)}`, { 
+      const res = await fetch(getApiUrl(`/api/scrape/google_maps?location=${encodeURIComponent(location)}&niche=${encodeURIComponent(niche)}`), { 
         method: 'POST' 
       });
       if (!res.ok) { 
@@ -84,8 +83,7 @@ export default function GoogleMapsPage() {
   };
 
   const handleDownload = () => { 
-    window.open(`${API_BASE}/api/download/google_maps`, '_blank'); 
-  };
+    window.open(getApiUrl('/api/download/google_maps'), '_blank');
 
   return (
     <div className="container-main" style={{ padding: '40px 24px 80px' }}>

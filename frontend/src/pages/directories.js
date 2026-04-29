@@ -7,8 +7,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import ProgressBar from '@/components/ProgressBar';
-
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+import { getApiUrl } from '@/utils/api';
 
 export default function DirectoriesPage() {
   const [status, setStatus] = useState('idle');
@@ -22,7 +21,7 @@ export default function DirectoriesPage() {
 
   const fetchPreview = useCallback(async () => {
     try {
-      const res = await fetch(`${API_BASE}/api/preview/directories?limit=50`);
+      const res = await fetch(getApiUrl('/api/preview/directories?limit=50'));
       if (res.ok) {
         const json = await res.json();
         setData(json.data || []);
@@ -38,7 +37,7 @@ export default function DirectoriesPage() {
     if (status === 'running') {
       interval = setInterval(async () => {
         try {
-          const res = await fetch(`${API_BASE}/api/status/directories`);
+          const res = await fetch(getApiUrl('/api/status/directories'));
           const d = await res.json();
           setPercentage(d.percentage || 0);
           setMessage(d.message || '');
@@ -57,14 +56,14 @@ export default function DirectoriesPage() {
     }
     setStatus('running'); setPercentage(0); setMessage('Initializing Directories Scraper…');
     try {
-      const res = await fetch(`${API_BASE}/api/scrape/directories?niches=${encodeURIComponent(niches)}`, { 
+      const res = await fetch(getApiUrl(`/api/scrape/directories?niches=${encodeURIComponent(niches)}`), { 
         method: 'POST' 
       });
       if (!res.ok) { const err = await res.json(); throw new Error(err.detail); }
     } catch (err) { setStatus('failed'); setMessage(err.message); }
   };
 
-  const handleDownload = () => { window.open(`${API_BASE}/api/download/directories`, '_blank'); };
+  const handleDownload = () => { window.open(getApiUrl('/api/download/directories'), '_blank'); };
 
   // Calculate source breakdown from data
   const sourceCounts = data.reduce((acc, row) => {

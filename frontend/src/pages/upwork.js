@@ -7,8 +7,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import ProgressBar from '@/components/ProgressBar';
-
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+import { getApiUrl } from '@/utils/api';
 
 export default function UpworkPage() {
   const [status, setStatus] = useState('idle');
@@ -22,7 +21,7 @@ export default function UpworkPage() {
 
   const fetchPreview = useCallback(async () => {
     try {
-      const res = await fetch(`${API_BASE}/api/preview/upwork?limit=50`);
+      const res = await fetch(getApiUrl('/api/preview/upwork?limit=50'));
       if (res.ok) {
         const json = await res.json();
         setData(json.data || []);
@@ -41,7 +40,7 @@ export default function UpworkPage() {
     if (status === 'running') {
       interval = setInterval(async () => {
         try {
-          const res = await fetch(`${API_BASE}/api/status/upwork`);
+          const res = await fetch(getApiUrl('/api/status/upwork'));
           const d = await res.json();
           setPercentage(d.percentage || 0);
           setMessage(d.message || '');
@@ -67,7 +66,7 @@ export default function UpworkPage() {
     setPercentage(0);
     setMessage('Initializing Upwork Scraper…');
     try {
-      const res = await fetch(`${API_BASE}/api/scrape/upwork?keywords=${encodeURIComponent(keywords)}`, { 
+      const res = await fetch(getApiUrl(`/api/scrape/upwork?keywords=${encodeURIComponent(keywords)}`), { 
         method: 'POST' 
       });
       if (!res.ok) {
@@ -81,7 +80,7 @@ export default function UpworkPage() {
   };
 
   const handleDownload = () => {
-    window.open(`${API_BASE}/api/download/upwork`, '_blank');
+    window.open(getApiUrl('/api/download/upwork'), '_blank');
   };
 
   return (

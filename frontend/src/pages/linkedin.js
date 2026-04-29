@@ -7,8 +7,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import ProgressBar from '@/components/ProgressBar';
-
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+import { getApiUrl } from '@/utils/api';
 
 export default function LinkedinPage() {
   const [status, setStatus] = useState('idle');
@@ -23,7 +22,7 @@ export default function LinkedinPage() {
 
   const fetchPreview = useCallback(async () => {
     try {
-      const res = await fetch(`${API_BASE}/api/preview/linkedin?limit=50`);
+      const res = await fetch(getApiUrl('/api/preview/linkedin?limit=50'));
       if (res.ok) {
         const json = await res.json();
         setData(json.data || []);
@@ -42,7 +41,7 @@ export default function LinkedinPage() {
     if (status === 'running') {
       interval = setInterval(async () => {
         try {
-          const res = await fetch(`${API_BASE}/api/status/linkedin`);
+          const res = await fetch(getApiUrl('/api/status/linkedin'));
           const d = await res.json();
           setPercentage(d.percentage || 0);
           setMessage(d.message || '');
@@ -68,7 +67,7 @@ export default function LinkedinPage() {
     setPercentage(0);
     setMessage('Initializing LinkedIn Scraper…');
     try {
-      const url = `${API_BASE}/api/scrape/linkedin?keywords=${encodeURIComponent(keywords)}${location ? `&location=${encodeURIComponent(location)}` : ''}`;
+      const url = getApiUrl(`/api/scrape/linkedin?keywords=${encodeURIComponent(keywords)}${location ? `&location=${encodeURIComponent(location)}` : ''}`);
       const res = await fetch(url, { method: 'POST' });
       if (!res.ok) {
         const err = await res.json();
@@ -81,7 +80,7 @@ export default function LinkedinPage() {
   };
 
   const handleDownload = () => {
-    window.open(`${API_BASE}/api/download/linkedin`, '_blank');
+    window.open(getApiUrl('/api/download/linkedin'), '_blank');
   };
 
   return (

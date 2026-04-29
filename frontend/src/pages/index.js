@@ -8,8 +8,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import Card from '@/components/Card';
-
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+import { getApiUrl } from '@/utils/api';
 
 const staggerContainer = {
   animate: {
@@ -32,7 +31,7 @@ export default function Dashboard() {
 
   const fetchStats = useCallback(async () => {
     try {
-      const res = await fetch(`${API_BASE}/api/stats`);
+      const res = await fetch(getApiUrl('/api/stats'));
       if (res.ok) {
         const data = await res.json();
         setStats(data);
