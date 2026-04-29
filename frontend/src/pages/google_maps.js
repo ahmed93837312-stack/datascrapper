@@ -9,7 +9,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import ProgressBar from '@/components/ProgressBar';
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 const QUICK_NICHES = ['restaurants', 'gyms', 'marketing agencies', 'real estate', 'dentists', 'coworking spaces'];
 
